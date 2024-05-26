@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(221, 239, 185);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+#section{
+    border: 4px dashed rgb(107, 215, 7);
+    color: black;
+    font-weight: bold;
+}
+#all-assignments{
+    border: 5px dotted rgb(45, 4, 84);
+}
