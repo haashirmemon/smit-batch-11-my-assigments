@@ -1,48 +1,98 @@
 var assignmentsArray = [
     {
-      title: "Finance Tracking Application",
-      code: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-      link: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-      date: "24-May-2024",
-      description: "Manage Income , Expense and see history using our app.",
+      title: "todo list application ",
+      link: "https://github.com/haashirmemon/assigments-ja/tree/main/todo%20app",
+      code : "https://664da234357e95b40af1064b--sage-faloodeh-590512.netlify.app/",
+      date: "May-2024",
+      description: "i make tode ist app check and review.",
     },
     {
-      title: "Text Editor",
-      code: "https://664b8a5732b097c5cc6fa07a--monumental-dolphin-5fe9df.netlify.app/?authuser=0",
-      link: "https://664b8a5732b097c5cc6fa07a--monumental-dolphin-5fe9df.netlify.app/?authuser=0",
-      date: "18-May-2024",
-      description:
-        "Learned making text bold , italice , changing font family using JS Dome",
-    },
-    {
-      title: "Todo List",
-      description: "Made Add, update , delete todo using JS Dom",
-      code: "https://m-mahad-siddiqui.github.io/Javascript-JS/TO-DO-APP/index.html",
-      link: "https://m-mahad-siddiqui.github.io/Javascript-JS/TO-DO-APP/index.html",
-      date: "20-May-2024",
-    },
-    {
-      title: "Finance Tracking Application",
-      code: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-      link: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-      date: "24-May-2024",
-      description: "Manage Income , Expense and see history using our app.",
-    },
-    {
-      title: "Text Editor",
-      code: "https://664b8a5732b097c5cc6fa07a--monumental-dolphin-5fe9df.netlify.app/?authuser=0",
-      link: "https://664b8a5732b097c5cc6fa07a--monumental-dolphin-5fe9df.netlify.app/?authuser=0",
-      date: "18-May-2024",
-      description:
-        "Learned making text bold , italice , changing font family using JS Dome",
-    },
-    {
-      title: "Todo List",
-      description: "Made Add, update , delete todo using JS Dom",
-      code: "https://m-mahad-siddiqui.github.io/Javascript-JS/TO-DO-APP/index.html",
-      link: "https://m-mahad-siddiqui.github.io/Javascript-JS/TO-DO-APP/index.html",
-      date: "20-May-2024",
-    },
+        title: "attendence chekker application",
+        code: "https://dulcet-capybara-879bdc.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/assigment%20attendence%20chekker",
+        date: "May-2024",
+        description: "i make attendence chekker app check and review.",
+      },
+    
+      {
+        title: "image gallery application",
+        code: "https://chipper-raindrop-eafbeb.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/assigment%20image%20gallery",
+        date: "May-2024",
+        description: "i make image gallery app check and review.",
+      },
+
+      {
+        title: " year count  down application",
+        code: "https://66534584d0767ba63af962d4--bucolic-genie-127902.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/bakra%20eid%20count%20down",
+        date: "May-2024",
+        description: "i make year countdown app check and review.",
+      },
+      {
+        title: "finance tracking  application",
+        code: "https://chimerical-monstera-eb549c.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/fiinance%20app",
+        date: "May-2024",
+        description: "i make finance tracking   app check and review.",
+      },
+      {
+        title: "simple calculator application",
+        code: "https://monumental-kelpie-b65b12.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/simplecalculator",
+        date: "May-2024",
+        description: "i make simple calculator    app check and review.",
+      },
+      {
+        title: "stop digital watch application",
+        code: "https://6653488dfaf751b3971b3e2f--zingy-gumption-06e0e0.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/stop%20watch",
+        date: "May-2024",
+        description: "i make stop digital watch   app check and review.",
+      },
+        {title: "text editor application",
+        code: "https://radiant-gnome-f46f04.netlify.app/",
+        link: "https://github.com/haashirmemon/assigments-ja/tree/main/text%20editor",
+        date: "May-2024",
+        description: "i make text editor   app check and review.",}
+,  
+{title: "salt and pepper web",
+code: "https://665349f8165fa18747e850e9--friendly-blancmange-9b6ea3.netlify.app/",
+link: "https://github.com/haashirmemon/salt-n-pepper-assigment/tree/main/assets",
+date: "january-2024",
+description: "i make salt and peper website using html css  check and review.",}
+,  
+{title: "noon  website",
+code: "https://haashirmemon.github.io/noon.com/",
+link: "https://github.com/haashirmemon/noon.com",
+date: "feb-2024",
+description: "i make noon website using html css  check and review.",}
+, 
+{title: "tribute website",
+code: "https://haashirmemon.github.io/project1/",
+link: "https://github.com/haashirmemon/project1",
+date: "feb-2024",
+description: "i make tribute website using html css  check and review.",}
+, 
+{title: "landing page website",
+code: "https://660415993a7527008c0329f7--capable-tarsier-383328.netlify.app/",
+link: "https://github.com/haashirmemon/html02/tree/main/project4",
+date: "feb-2024",
+description: "i make tribute website using html css  check and review.",}
+     
+, 
+{title: " parallax website",
+code: "https://haashirmemon.github.io/html/",
+link: "https://github.com/haashirmemon/html",
+date: "feb-2024",
+description: "i make parallax website using html css  check and review.",}
+,
+{title: " job application website",
+code: "https://haashirmemon.github.io/haashirmemon/",
+link: "https://github.com/haashirmemon/haashirmemon",
+date: "feb-2024",
+description: "i make parallax website using html css  check and review.",}
+      
   ];
   
   var assignList = document.getElementById("all-assignments");
@@ -61,7 +111,7 @@ var assignmentsArray = [
           <a
             href="${assignmentsArray[i].link}"
             class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
-            >See Preview
+            >view code 
             <svg
               class="w-4 h-4 ml-2"
               viewBox="0 0 24 24"
@@ -106,13 +156,13 @@ var assignmentsArray = [
     assignList.innerHTML += div;
   }
   
-  var projectInfo = {
-    title: "Finance Tracking Application",
-    code: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-    link: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
-    date: "24-May-2024",
-    description: "Manage Income , Expense and see history using our app.",
-  };
+//   var projectInfo = {
+//     title: "Finance Tracking Application",
+//     code: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
+//     link: "https://rumi-bin-fahad.github.io/JavaScript-Exercise/expenses%20app/version%202/index.html",
+//     date: "24-May-2024",
+//     description: "Manage Income , Expense and see history using our app.",
+//   };
   
-  console.log(projectInfo.title);
-  console.log(assignmentsArray[0].title);
+//   console.log(projectInfo.title);
+//   console.log(assignmentsArray[0].title);
