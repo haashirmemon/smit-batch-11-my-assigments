@@ -100,7 +100,7 @@ description: "i make parallax website using html css  check and review.",}
   for (var i = 0; i < assignmentsArray.length; i++) {
     var div = ` <div class="p-4 md:w-1/3">
     <div
-      class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden"
+      class="h-full border-2 border-gray-200 border-opacity-90 rounded-lg overflow-hidden"
     >
       <div class="p-6">
         <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
@@ -126,7 +126,7 @@ description: "i make parallax website using html css  check and review.",}
             </svg>
           </a>
           <span
-            class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200"
+            class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-black-200 color-black"
           >
             <a
               href="${assignmentsArray[i].code}"
@@ -146,7 +146,7 @@ description: "i make parallax website using html css  check and review.",}
                 <circle cx="12" cy="12" r="3"></circle>
               </svg>
             </a>
-            link
+            live link
           </span>
         </div>
       </div>
