@@ -98,19 +98,19 @@ description: "i make parallax website using html css  check and review.",}
   var assignList = document.getElementById("all-assignments");
   
   for (var i = 0; i < assignmentsArray.length; i++) {
-    var div = ` <div class="p-4 md:w-1/3">
+    var div = ` <div id="div-card" class="p-4 md:w-1/3">
     <div
-      class="h-full border-2 border-gray-200 border-opacity-90 rounded-lg overflow-hidden"
+      class="h-full border-2 border-yellow-700 border-opacity-110 rounded-lg overflow-hidden "
     >
       <div class="p-6">
-        <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+        <h1 class="title-font text-lg font-medium text-black-900 mb-3">
          ${assignmentsArray[i].title} 
         </h1>
         <p class="leading-relaxed mb-3">${assignmentsArray[i].description}</p>
         <div class="flex items-center flex-wrap">
           <a
             href="${assignmentsArray[i].link}"
-            class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
+            class="text-red-900 inline-flex items-center md:mb-2 lg:mb-0"
             >view code 
             <svg
               class="w-4 h-4 ml-2"
@@ -126,7 +126,7 @@ description: "i make parallax website using html css  check and review.",}
             </svg>
           </a>
           <span
-            class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-black-200 color-black"
+            class="text-yellow-900 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-black-500 color-black "
           >
             <a
               href="${assignmentsArray[i].code}"
