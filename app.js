@@ -1,5 +1,13 @@
 var assignmentsArray = [
-    {
+  {
+    title: "roll dice  application ",
+    link: "https://github.com/haashirmemon/javascript-asssigmet-1",
+    code : "https://haashirmemon.github.io/javascript-asssigmet-1/",
+    date: "May-2024",
+    description: "i make roll dice app check and review.",
+  },  
+  
+  {
       title: "todo list application ",
       link: "https://github.com/haashirmemon/assigments-ja/tree/main/todo%20app",
       code : "https://664da234357e95b40af1064b--sage-faloodeh-590512.netlify.app/",
